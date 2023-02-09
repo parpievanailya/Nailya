@@ -1,0 +1,58 @@
+body{
+    background-image: url("https://klike.net/uploads/posts/2022-10/1664969341_1.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    text-align: right;
+    
+}
+.block{
+    width: 700px;
+    margin: auto;
+    background-color:aquamarine;
+    padding: 20px;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    background-color: rgb(240, 29, 29);
+}
+nav a:hover{
+    background-color:yellow;
+    color: black;
+
+}
+.link{
+    text-align: right;
+    
+}
+.link a{
+    color:blue;
+}
+.link a:hover{
+    color: crimson;
+
+}
+h2{
+    color:brown ;
+    text-shadow: 3px  rgb(240, 176, 169);
+}
+.box{
+    border: 3px solid red;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.box  h2{
+    text-align: left;
+}
+.box h2{
+    text-align:left;
+}
+p{
+    text-align:justify;
+}
+img{
+    width: 250px;
+    float: left;
+    margin-right: 10px;
+}
